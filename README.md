@@ -58,11 +58,11 @@
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yousefserag@proton.me)
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1a1b27&borderRadius=10px&idleMessage=Probably%20hacking%20something..." />
+  <img src="https://komarev.com/ghpvc/?username=YSeragSec&style=for-the-badge&color=557C94" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YSeragSec&style=for-the-badge&color=557C94" alt="Profile views"/>
+  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1a1b27&borderRadius=10px&idleMessage=Probably%20hacking%20something..." />
 </p>
 
 ---
