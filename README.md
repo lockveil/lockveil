@@ -1,9 +1,3 @@
----
-title: About
-icon: fas fa-info-circle
-order: 4
----
-
 # Hi there, I'm Yousef
 
 > *"The quieter you become, the more you can hear."*
