@@ -85,10 +85,5 @@ order: 4
   <!-- Discord Status (Lanyard) -->
   <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1B1B1E&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 
-  <!-- Reduced space above GitHub Stats -->
-  <hr style="width: 100%; border: 0.5px solid #333; margin: 10px 0;">
-
-  <h2 style="margin: 0 0 5px 0; font-weight: bold;">GitHub Stats</h2>
-
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing 
+<!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
