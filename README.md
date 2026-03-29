@@ -2,11 +2,11 @@
 
 > *"The quieter you become, the more you can hear."*
 
+# About Me
 - First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
 - Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
 - IT Support Technician with hands-on hardware & networking experience
 
----
 
 # Skills & Tools
 
