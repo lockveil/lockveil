@@ -1,4 +1,4 @@
-# Hi there, I'm Yousef
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Yousef;Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
 
 > *"The quieter you become, the more you can hear."*
 
@@ -80,4 +80,4 @@
   <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1B1B1E&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 
 <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
+ 
