@@ -1,12 +1,16 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Yousef;Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
 
 > *"The quieter you become, the more you can hear."*
 
-# About Me
 - First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
-- Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
+- Cybersecurity enthusiast & active member of [**CAT**](https://catreloaded.org/) security circle
 - IT Support Technician with hands-on hardware & networking experience
 
+---
 
 # Skills & Tools
 
@@ -65,11 +69,10 @@
 ### Connect
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
-<a href="https://www.linkedin.com/in/yousefserag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/YSeragSec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://yseragsec.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog"/></a>
+<!-- <a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+<a href="https://github.com/lockveil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://discord.com/users/751180791492378774"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="mailto:yousefserag@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:lockveil@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br>
@@ -79,6 +82,21 @@
   <!-- Discord Status (Lanyard) -->
   <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1B1B1E&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 
-<!-- Typing SVG -->
- 
+  <!-- Reduced space above GitHub Stats -->
+  <hr style="width: 100%; border: 0.5px solid #333; margin: 10px 0;">
+
+  <h2 style="margin: 0 0 5px 0; font-weight: bold;">GitHub Stats</h2>
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=lockveil&background=1B1B1E&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=888888&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD&date_format=j%20M%5B%20Y%5D&card_width=495" alt="GitHub Streak" />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&bg_color=1B1B1E&color=70A5FD&line=70A5FD&point=ffffff&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lockveil)
+
