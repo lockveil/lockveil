@@ -69,7 +69,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
   <!-- Discord Status (Lanyard) -->
-  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1B1B1E&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
+  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=00000000&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 
   <!-- Reduced space above GitHub Stats -->
   <hr style="width: 100%; border: 0.5px solid #333; margin: 10px 0;">
