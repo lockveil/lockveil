@@ -77,7 +77,7 @@
   <h2 style="margin: 0 0 5px 0; font-weight: bold;">GitHub Stats</h2>
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;" alt="Typing SVG" />
 
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=lockveil&background=1B1B1E&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=888888&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD&date_format=j%20M%5B%20Y%5D&card_width=495" alt="GitHub Streak" />
