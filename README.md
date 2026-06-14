@@ -1,5 +1,4 @@
 - First Year Software Engineering student
-- Cybersecurity enthusiast & active member of [**CAT**](https://catreloaded.org/) security circle
 - IT Support Technician with hands-on hardware & networking experience
 
 ---
